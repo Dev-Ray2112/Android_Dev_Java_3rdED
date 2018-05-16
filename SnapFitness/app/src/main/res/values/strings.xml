@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Snap Fitness</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="txtSite">Web site</string>
+    <string name="txtDescription">Gym Images</string>
+    <string name="txtYouth">Youth (ages 14-17): $25</string>
+    <string name="txtAdult">Adult (18 and over): $50</string>
+    <string name="txtFamily">Family / Household: $75</string>
+    <string name="txtSen">Active Senior: $50</string>
+    <string name="imgGym1">Conveniently located in the heart of town and decorated with the best landscaping.</string>
+    <string name="imgGym2">Each set of treadmills are supplied with their own HDTV’s so you will not miss out on current events while you maintain a healthy lifestyle!</string>
+    <string name="imgGym3">Specialized equipment available upon reservations.</string>
+    <string name="imgGym4">We offer a wide range of equipment that will accommodate health and fitness need.</string>
+    <string name="txtTitle">Snap Fitness Gym</string>
+</resources>

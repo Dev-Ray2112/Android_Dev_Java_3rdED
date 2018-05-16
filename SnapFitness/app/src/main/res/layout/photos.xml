@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TableRow android:layout_height="131dp">
+
+        <ImageView
+            android:id="@+id/imgGym1"
+            android:layout_width="400dp"
+            android:layout_height="155dp"
+            android:contentDescription="@string/txtDescription"
+            android:padding="25sp"
+            android:src="@drawable/gym1" />
+
+        <TextView
+            android:layout_width="800dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:padding="25dp"
+            android:text="@string/imgGym1"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:typeface="serif" />
+    </TableRow>
+
+
+    <TableRow>
+
+        <ImageView
+            android:id="@+id/imgGym2"
+            android:layout_width="250dp"
+            android:layout_height="155dp"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            android:src="@drawable/gym2" />
+
+        <TextView
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="25dp"
+            android:text="@string/imgGym2"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:typeface="serif" />
+    </TableRow>
+
+
+    <TableRow>
+
+        <ImageView
+            android:id="@+id/imgGym3"
+            android:layout_width="250dp"
+            android:layout_height="155dp"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            android:src="@drawable/gym3" />
+
+        <TextView
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="25dp"
+            android:text="@string/imgGym3"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:typeface="serif" />
+    </TableRow>
+
+
+    <TableRow>
+
+        <ImageView
+            android:id="@+id/imgGym4"
+            android:layout_width="250dp"
+            android:layout_height="155dp"
+            android:contentDescription="@string/txtDescription"
+            android:padding="15sp"
+            android:src="@drawable/gym4" />
+
+        <TextView
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="25dp"
+            android:text="@string/imgGym4"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:typeface="serif" />
+    </TableRow>
+
+
+</TableLayout>

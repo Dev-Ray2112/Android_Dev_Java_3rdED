@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OasisSpaApp</string>
+    <string name="title_item_detail">Oasis Spa </string>
+    <string name="txtSpa1">With our spa and massage services you are getting the relaxing touch of an expert.</string>
+    <string name="txtAdd">Oasis Spa at 1268 Andrew Lane, Pond, OK 43277, 555-332-3366</string>
+    <string name="txtInfo">Full Web Site</string>
+    <string name="txtDescription1">Image of spa 1</string>
+    <string name="txtDescription2">Image of spa 2</string>
+    <string name="txtTitle">The Oasis Spa</string>
+    <string name="txtSpa2">Our spa manicure and pedicure services soothe with a warm neck pillow.</string>
+</resources>

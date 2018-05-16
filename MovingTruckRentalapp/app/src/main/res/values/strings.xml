@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Moving Truck Rental app</string>
+    <string name="txtTitle">Moving Truck Rental App</string>
+    <string name="hint1">10ft($19.95), 17ft($29.95), 26ft($39.95)</string>
+    <string name="hint2">Number of days </string>
+    <string name="hint3">Expected number of miles</string>
+    <string name="btnPayment">Rental Payment</string>
+    <string name="imgDescription">Rental Truck Image</string>
+    <string name="txtPayment">Rental Payment</string>
+</resources>
